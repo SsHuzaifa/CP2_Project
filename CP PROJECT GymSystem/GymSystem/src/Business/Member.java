@@ -6,7 +6,7 @@ package Business;
 
 /**
  *
- * @author huzaifasuhail
+ * @author huzaifasuhail   765
  */
 public class Member extends Person {
     private String dob;
